@@ -21,8 +21,6 @@ public class FormularioAlunoNovo extends Frame implements ActionListener {
     protected Label lAluno;
         
         Aluno alunoUm = new Aluno("Eliane");
-        Aluno alunoDois = new Aluno("Jonatas");
-        Aluno alunoTres = new Aluno("Rodrigo");
         
         public FormularioAlunoNovo() {
             
