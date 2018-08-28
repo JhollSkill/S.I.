@@ -1,8 +1,10 @@
+/* 1.  Dada uma seqüência de números inteiros não-nulos, seguida por 0, imprimir seus quadrados. */
+
 #include <stdio.h>
 
 int main() {
-	int numero,
-		quadrado;
+	int numero,	/* usada para leitura da sequencia  */
+		quadrado;	/* guarda o quadrado do numero lido */
 		
 	printf("\n\tCalculo dos quadrados de uma sequencia de numeros\n");
 	printf("\nEntre com uma sequencia de numeros inteiros nao-nulos, seguida por 0:\n");
